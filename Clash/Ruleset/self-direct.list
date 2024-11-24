@@ -1,4 +1,3 @@
 # 自定义规则
 # 数量：？
-- DOMAIN-SUFFIX,fwd.hyperfomance.cloud
-- DOMAIN-SUFFIX,ny.n111.link
+DOMAIN-KEYWORD,jlu
