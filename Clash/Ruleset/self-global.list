@@ -4,3 +4,5 @@ DOMAIN-SUFFIX,fwd.hyperfomance.cloud
 DOMAIN-SUFFIX,ny.n111.link
 DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,hostloc.com
+IP-CIDR,107.173.87.174/32
+IP-CIDR,156.238.253.220/32
