@@ -1,6 +1,7 @@
 # 自定义规则
 # 数量：？
 DOMAIN-SUFFIX,hostloc.com
+DOMAIN-SUFFIX,freexcomic.com
 IP-CIDR,107.173.87.174/32
 IP-CIDR,156.238.253.220/32
 IP-CIDR,152.53.53.56/32
